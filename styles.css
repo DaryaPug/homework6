@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation{
+    display: inline-block;
+    margin-right: 350px;
+    margin-left: 225px;
+    vertical-align: top;
+}
+.button{
+    background-color: #46A358;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: 1px solid white;
+    display: inline-block;
+}
+.logout{
+  width: 100px;
+  height: 35px;
+}
+  
+.link{
+    text-decoration: none;
+    color: #3D3D3D;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+    display: inline-block;
+    
+}
+.logo{
+    text-decoration: none;
+    vertical-align:top;
+    display: inline-block;
+}
+.active{
+    margin-left: 0;
+    font-weight: bold;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #46A358;
+ }
+.logo img{
+    display: block;
+}
+.menu{
+    padding-top: 30px;
+    border-bottom: 1px solid #F5F5F5;;
+}
+.content{
+    background-color:#F5F5F5;
+    margin-top:12px;
+    width: 1200px;
+}
+.text{
+    width: 555px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 85px;
+    margin-top: 68px;
+    margin-left: 40px;
+}
+.plants{
+    display: inline-block;
+    margin-left: 90px;
+}
+.text1{
+    width: 205px;
+    margin: 0;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3D3D3D;
+  }
+.text2{
+    width: 530px;
+    font-size: 60px;
+    line-height: 60px;
+    color:#3D3D3D;
+    margin-top: 5px;
+    margin-bottom: 0;
+    }
+.word{
+    font-size: 60px;
+    line-height: 60px;
+    color:#46A358;
+}
+.text3{
+    width: 555px;
+    font-size: 14px;
+    line-height: 24px;
+    color:#727272;
+    margin: 0;
+    margin-top: 5px;
+    display: block;
+    font-weight: normal;
+ }
+.shop{
+    width: 140px;
+    height: 40px;
+    margin-top: 45px;
+}
+.Logout{
+  vertical-align:middle;
+}
+   
